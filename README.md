@@ -42,7 +42,7 @@ Berikut adalah hasil evaluasi dari model-model yang telah diuji:
     ```bash
     Prediksi_penyakit_jantung.ipynb
     ```
-    *(Sesuaikan dengan nama file dan perintah eksekusi proyek Anda)*
+
 
 ---
 
